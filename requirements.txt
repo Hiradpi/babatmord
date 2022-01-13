@@ -19,3 +19,4 @@ time
 sys
 argv
 discord_webhook
+DiscordWebhook
